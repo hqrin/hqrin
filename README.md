@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./ascii.svg" width="460" alt="Andrii Drok"/>
+<img src="./ascii.svg" alt="Andrii Drok"/>
 
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
