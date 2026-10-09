@@ -23,13 +23,14 @@
       <p><sub>projects &nbsp;·&nbsp; experiments &nbsp;·&nbsp; things worth sharing</sub></p>
     </td>
     <td width="50%" valign="top">
+      <img src="./img/mont.png" width="110" align="right" alt="Japanese postage stamp with Mount Fuji"/>
       <h2 id="links"><a href="#links">elsewhere.</a></h2>
       <p><a href="https://decrem.lol">decrem.lol</a></p>
       <p><a href="https://amayo.me/">amayo</a></p>
     </td>
   </tr>
   <tr>
-    <td valign="middle" align="center"><h1>✳</h1></td>
+    <td valign="middle" align="center"><img src="./img/%C2%A1t.png" width="100" alt="Blue Japanese postage stamp with koi fish"/></td>
     <td valign="top">
       <h2><a href="#statistics">a little note.</a></h2>
       <p>Thanks for stopping by. The stats below show a little of what I've been working on.</p>
