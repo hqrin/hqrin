@@ -4,7 +4,7 @@
 No third-party services and no dependencies — standard library only.
 
 Output:
-  stats.svg   hero total + weekly sparkline
+  stats/stats.svg   hero total + weekly sparkline
 
 Uses the portrait's grey ink, a monospace face, a transparent background,
 and left-to-right clipPath reveal with a cursor riding the edge. Motion is
@@ -299,7 +299,7 @@ def main():
     if not token:
         sys.exit("GITHUB_TOKEN is not set")
     login = os.environ.get("GH_LOGIN", "hqrin")
-    out_dir = os.environ.get("OUT_DIR", ".")
+    out_dir = os.environ.get("OUT_DIR", "stats")
 
     s = summarise(fetch(login, token))
     files = {"stats.svg": draw_stats(s)}
