@@ -43,6 +43,6 @@
 
 <h2 id="statistics"><a href="#statistics">statistics.</a></h2>
 
-<img src="./stats.svg" width="620" alt="Contributions in the last year"/>
+<img src="./stats/stats.svg" width="620" alt="Contributions in the last year"/>
 
 </div>

@@ -1,4 +1,0 @@
-stats: change default GH_LOGIN from andriidrok1 to hqrin
-
-Updates both the docstring and the main() function default to use hqrin
-as the default GitHub username for generating profile statistics.
