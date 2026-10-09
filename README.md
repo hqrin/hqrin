@@ -8,7 +8,7 @@
   <a href="#statistics">stats.</a>
 </p>
 
-<img src="./img/5c8895b55480e27a6234de600e3e7c52.jpg" width="100%" alt="Blue sky banner"/>
+<img src="./img/af898fccb51c22d4433dfd660793dee6.jpg" width="100%" alt="Blue sky banner"/>
 
 <h1><a href="#about">HQRIN</a></h1>
 <p><em>a little corner of the internet</em></p>
@@ -23,10 +23,10 @@
       <p><sub>projects &nbsp;·&nbsp; experiments &nbsp;·&nbsp; things worth sharing</sub></p>
     </td>
     <td width="50%" valign="top">
-      <img src="./img/mont.png" width="110" align="right" alt="Japanese postage stamp with Mount Fuji"/>
       <h2 id="links"><a href="#links">elsewhere.</a></h2>
       <p><a href="https://decrem.lol">decrem.lol</a></p>
       <p><a href="https://amayo.me/">amayo</a></p>
+      <p align="right"><img src="./img/mont.png" width="110" alt="Japanese postage stamp with Mount Fuji"/></p>
     </td>
   </tr>
   <tr>
